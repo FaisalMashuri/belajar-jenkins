@@ -25,3 +25,7 @@
 - Step dibuat menggunakan keyword steps
 
 
+#Jenkisfile
+- Walaupun kita bisa membuat kode pipeline di jenkins job, tetapi pada kenyataanya biasanya kita akan membuat kode pipeline di file jenkinfile
+- file jenkinsfile tersebut biasanya disimpan didalam repository kita
+
